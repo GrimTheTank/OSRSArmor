@@ -10,7 +10,7 @@ namespace ModTemplate
         // Called on server and client
         public override void Start(ICoreAPI api)
         {
-            api.Logger.Notification("Hello from template mod: " + Lang.Get("mymodid:hello"));
+            api.Logger.Notification("Hello from template mod: " + Lang.Get("osrsarmor:hello"));
         }
 
         public override void StartServerSide(ICoreServerAPI api)

@@ -1,11 +1,12 @@
 {
-    "type": "code",
-    "modid": "mymodid",
-    "name": "My Template Mod",
+    "type": "content",
+    "modid": "osrsarmor",
+    "name": "OSRS Armor Mod",
     "authors": [
-        "Unknown"
+        "Grim"
+        "Barnaby"
     ],
-    "description": "To be added",
+    "description": "Adds OSRS Armor styles to VS",
     "version": "1.0.0",
     "dependencies": {
         "game": ""
